@@ -7,7 +7,7 @@
 ### This is Project is built using React and Redux 
 To run the app clone this repo and  open a terminal and write npm install and hit enter 
 ## AFTER THAT
-# npm start  
+npm start  
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
