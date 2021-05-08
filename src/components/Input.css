@@ -1,0 +1,38 @@
+.input{
+    height: 50px;
+    width: 80%;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow:  16px 16px 27px #bebebe,
+             -16px -16px 27px #ffffff;
+            position: fixed;
+            z-index: 1;
+            max-width: 470px;
+            
+}
+input{
+    background: none;
+    border: none;
+    margin-left: 12px;
+    
+    
+    
+
+}
+input:focus{
+    outline: none;
+}
+button{
+    margin-right: 18px;
+    background-color:rgb(238, 139, 255) ;
+    border: none;
+    border-radius: 10px;
+    box-shadow:  14px 14px 24px #cecece,
+             -14px -14px 24px #f2f2f2;
+    height: 30px;
+    width: 50px;
+}
