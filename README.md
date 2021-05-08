@@ -2,7 +2,7 @@
 
 ## TODO WEB APP
 
-
+![](https://github.com/kunal838/Todo-Web-App/blob/main/Screenshot%20from%202021-05-08%2015-33-53.png)
 
 ### This is Project is built using React and Redux 
 To run the app clone this repo and  open a terminal and write npm install and hit enter 
